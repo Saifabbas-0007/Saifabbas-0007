@@ -1,4 +1,9 @@
 ## Hi there 👋
+B.Tech CSE (AI & ML) student seeking opportunities as a Full-Stack Developer or Data Analyst, with hands-on
+experience in Python, Django, SQL, and web technologies. Passionate about learning, building scalable
+applications, and extracting insights from data!!!
+- 🌱 I’m currently learning Generative AI...
+
 
 <!--
 **Saifabbas-0007/Saifabbas-0007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
