@@ -1,6 +1,6 @@
 ## Welcome 👋
 B.Tech CSE (AI & ML) student seeking opportunities as a Full-Stack Developer or Data Analyst, with hands-on
-experience in Python, Django, SQL, and web technologies. Passionate about learning, building scalable
+experience in Python, Django, SQL, Power BI and web technologies. Passionate about learning, building scalable
 applications, and extracting insights from data!!!
 - 🌱 I’m currently learning Generative AI...
 
